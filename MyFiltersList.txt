@@ -8,8 +8,7 @@
 ! --------------------
 worldtimebuddy.com##DIV[id="toprek"]
 worldtimebuddy.com##DIV[id="text-wrapper"]
-worldtimebuddy.com##DIV[id="social-bttns"][class="social-loaded"]
-
+www.worldtimebuddy.com##DIV[id="social-bttns"][class="social-loaded"]
 
 ! --------------------
 ! http://www.lingvo.ua/ru/Translate/
