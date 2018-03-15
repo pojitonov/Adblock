@@ -173,3 +173,14 @@ prnt.sc##DIV[class="uv-icon uv-bottom-right"]
 ! https://www.woot.com/
 ! --------------------
 woot.com##DIV[id="spotlight-HomepageAboveWootPlus"][class="spotlight"]
+
+! --------------------
+! http://www.speedtest.net/
+! --------------------
+www.speedtest.net##DIV[class="a-container container-leaderboard"]
+
+! --------------------
+! http://jsbin.com/
+! --------------------
+jsbin.com##DIV[id="bsaapi"][class="cs__wrapper"]
+
