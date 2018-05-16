@@ -177,10 +177,16 @@ woot.com##DIV[id="spotlight-HomepageAboveWootPlus"][class="spotlight"]
 ! --------------------
 ! http://www.speedtest.net/
 ! --------------------
-www.speedtest.net##DIV[class="a-container container-leaderboard"]
+speedtest.net##DIV[class="a-container container-leaderboard"]
 
 ! --------------------
 ! http://jsbin.com/
 ! --------------------
 jsbin.com##DIV[id="bsaapi"][class="cs__wrapper"]
+
+! --------------------
+! http://amazon.com/
+! --------------------
+amazon.com##DIV[id="nav-upnav"]
+
 
