@@ -188,3 +188,11 @@ jsbin.com##DIV[id="bsaapi"][class="cs__wrapper"]
 ! http://amazon.com/
 ! --------------------
 www.amazon.com##DIV[id="nav-upnav"]
+
+! --------------------
+! https://en.autoplius.lt/
+! --------------------
+en.autoplius.lt##LI[id="banner_right"][class="ads-items"]
+en.autoplius.lt##DIV[class="leader-board-wrapper"]
+en.autoplius.lt##DIV[class="news-15min-sidebar"]
+en.autoplius.lt##DIV[class="headtop"]
