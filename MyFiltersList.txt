@@ -204,6 +204,7 @@ translate.academic.ru##DIV[id="langbar"]
 translate.academic.ru##DIV[id="t-direction-head"]
 translate.academic.ru##UL[id="top-menu"]
 translate.academic.ru##DIV[id="footer"]
+translate.academic.ru##UL[class="smm"]
 
 ! --------------------
 ! https://vstorrent.org
