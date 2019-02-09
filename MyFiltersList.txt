@@ -196,3 +196,22 @@ en.autoplius.lt##LI[id="banner_right"][class="ads-items"]
 en.autoplius.lt##DIV[class="leader-board-wrapper"]
 en.autoplius.lt##DIV[class="news-15min-sidebar"]
 en.autoplius.lt##DIV[class="headtop"]
+
+! --------------------
+! https://translate.academic.ru
+! --------------------
+translate.academic.ru##DIV[id="langbar"]
+translate.academic.ru##DIV[id="t-direction-head"]
+translate.academic.ru##UL[id="top-menu"]
+translate.academic.ru##DIV[id="footer"]
+
+! --------------------
+! https://vstorrent.org
+! --------------------
+vstorrent.org##DIV[class="mEtgMUbJaIcE-bg"]
+vstorrent.org##DIV[class="mEtgMUbJaIcE-default"]
+
+! --------------------
+! https://tv.yandex.ua
+! --------------------
+tv.yandex.ua##DIV[class="v1hIpJDSG812RXQ__v0AQ2bW6M_00"]
