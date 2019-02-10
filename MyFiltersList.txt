@@ -201,13 +201,11 @@ en.autoplius.lt##DIV[class="headtop"]
 ! https://translate.academic.ru
 ! --------------------
 translate.academic.ru##DIV[id="langbar"]
-translate.academic.ru##DIV[id="t-direction-head"]
-translate.academic.ru##UL[id="top-menu"]
 translate.academic.ru##DIV[id="footer"]
 translate.academic.ru##UL[class="smm"]
 translate.academic.ru##DIV[class="other-info"]
-translate.academic.ru##DIV[id="header"]
 translate.academic.ru##DIV[id="search_links"]
+translate.academic.ru##DIV[id="t-direction-head"]
 
 ! --------------------
 ! https://vstorrent.org
