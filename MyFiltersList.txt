@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Timur Prokopiev's List
 ! Version: 1.0
+! URL: https://pojitonov.github.io/Adblock/MyFiltersList.txt
 
 
 ! --------------------
