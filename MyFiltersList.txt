@@ -3,17 +3,10 @@
 ! Version: 1.0
 ! URL: https://pojitonov.github.io/Adblock/MyFiltersList.txt
 
-
-! --------------------
-! http://www.worldtimebuddy.com/time-converter
-! --------------------
 worldtimebuddy.com##DIV[id="toprek"]
 worldtimebuddy.com##DIV[id="text-wrapper"]
 worldtimebuddy.com##DIV[id="social-bttns"]
 
-! --------------------
-! http://www.lingvo.ua/ru/Translate/
-! --------------------
 lingvo.ua##DIV[class="l-closeDict js-section-box"]
 lingvo.ua##A[class="l-infobox registr"]
 lingvo.ua##A[class="l-infobox small"]
@@ -21,7 +14,6 @@ lingvo.ua##DIV[class="l-homepage"]
 lingvo.ua##DIV[class="g-bnrbox left g-banner-placeholder"]
 lingvo.ua##DIV[class="g-menubox__socNetwork js-social-plugins"]
 lingvo.ua##DIV[class="g-body__right"]
-
 lingvo-online.ru##DIV[class="l-closeDict js-section-box"]
 lingvo-online.ru##A[class="l-infobox registr"]
 lingvo-online.ru##A[class="l-infobox small"]
@@ -31,75 +23,36 @@ lingvo-online.ru##DIV[class="g-menubox__socNetwork js-social-plugins"]
 lingvo-online.ru##DIV[class="g-body__right"]
 lingvo-online.ru##DIV[class="g-box g-statbox"]
 
-! --------------------
-! http://tema.livejournal.com/
-! --------------------
 tema.livejournal.com##DIV[class="banner_container"]
 
-! --------------------
-! http://gyazo.com/
-! --------------------
 gyazo.com##DIV[id="download"]
 gyazo.com##DIV[class="ads"]
 gyazo.com##UL[id="buttons"][class="prefix"]
 
-! --------------------
-! http://www.ikonet.com/
-! --------------------
 www.ikonet.com##DIV[class="pub"]
 www.ikonet.com##DIV[class="pubtop"]
 
-! --------------------
-! http://brb.to/
-! --------------------
 brb.to##A[href="/video/films/i3EFUTVk0r2GBhiQY2KS4-zhizn-adel.html"]
 brb.to##DIV[class="b-adsuniversal-wrap"]
 
-! --------------------
-! https://www.monosnap.com/
-! --------------------
 www.monosnap.com##DIV[class="installPanel"]
 
-! --------------------
-! http://xuk.ru/
-! --------------------
 xuk.ru##DIV[class="banner-center"]
 
-! --------------------
-! http://mailinator.com/
-! --------------------
 mailinator.com##DIV[class="tips"]
 
-! --------------------
-! http://korrespondent.net/
-! --------------------
 korrespondent.net##DIV[class="unit-top-dark-banner"]
 
-! --------------------
-! http://forum.0day.kiev.ua
-! --------------------
 forum.0day.kiev.ua##DIV[id="logostrip"]
 
-! --------------------
-! http://forum.ipod-apple.com.ua
-! --------------------
 forum.ipod-apple.com.ua##DIV[id="list"]
 forum.ipod-apple.com.ua##H2[class="dotted"]
 
-! --------------------
-! http://www.superjob.ua/
-! --------------------
 superjob.ua##TD[class="sidebar sidebar_left"]
 superjob.ua##DIV[class="Footer_counters"]
 
-! --------------------
-! https://duckduckgo.com
-! --------------------
 @@||duckduckgo.com/$document
 
-! --------------------
-! http://prntscr.com/
-! --------------------
 prntscr.com##DIV[class="extra"]
 prntscr.com##DIV[class="header"]
 prntscr.com##DIV[class="footer"]
@@ -107,34 +60,19 @@ prntscr.com##DIV[class="page-constrain"]
 prntscr.com##DIV[id="uvTab"][class="uv-tab uv-slide-right "]
 prntscr.com##DIV[id="uvTab"][class="uv-tab uv-slide-right "]
 
-! --------------------
-! http://mindmeister.com/
-! --------------------
 www.mindmeister.com##DIV[id="multibar"]
 www.mindmeister.com##DIV[id="multibar"]
 
-! --------------------
-! https://assa.intertelecom.ua/
-! --------------------
 assa.intertelecom.ua##IMG[src="/images/menu_banners/ru/speedtest.png"]
 assa.intertelecom.ua##DIV[class="leftmenu-banners leftmenu-slick-banners slick-initialized slick-slider"]
 
-! --------------------
-! https://otpsmart.com.ua/
-! --------------------
 otpsmart.com.ua##DIV[id="banner"][class="b-commercial hidden-print m-no-loader"]
 
-! --------------------
-! https://gomovies.to/
-! --------------------
 gomovies.to##DIV[class="top-content"]
 gomovies.to##DIV[class="ann-home alert text-center"]
 gomovies.to##DIV[class="social-home"]
 gomovies.to##DIV[id="commentfb"]
 
-! --------------------
-! https://www.kredodirect.com.ua/
-! --------------------
 kredodirect.com.ua##IMG[id="new_rightbox_banner"]
 kredodirect.com.ua##IMG[id="top_rightbox_banner"]
 kredodirect.com.ua##IMG[id="right_bottom_banner"]
@@ -149,9 +87,6 @@ kredodirect.com.ua##DIV[class="news_content"]
 kredodirect.com.ua##DIV[class="news_list"]
 kredodirect.com.ua##DIV[class="helper_box"]
 
-! --------------------
-! https://hdonline.to/
-! --------------------
 hdonline.to##DIV[class="goblock sb-likeshare"]
 hdonline.to##DIV[class="goblock sb-subs"]
 hdonline.to##DIV[class="goblock sb-watched"]
@@ -160,9 +95,6 @@ hdonline.to##DIV[class="addthis_inline_share_toolbox"]
 hdonline.to##DIV[class="goblock sb-requested block-m-hide"]
 hdonline.to##DIV[id="comments"][class="goblock comments"]
 
-! --------------------
-! http://prnt.sc/
-! --------------------
 prnt.sc##DIV[class="top-grundik"]
 prnt.sc##DIV[class="additional"]
 prnt.sc##UL[class="footer-nav"]
@@ -170,53 +102,31 @@ prnt.sc##DIV[class="social"]
 prnt.sc##DIV[class="header-social"]
 prnt.sc##DIV[class="uv-icon uv-bottom-right"]
 
-! --------------------
-! https://www.woot.com/
-! --------------------
 woot.com##DIV[id="spotlight-HomepageAboveWootPlus"][class="spotlight"]
 
-! --------------------
-! http://www.speedtest.net/
-! --------------------
 www.speedtest.net##DIV[class="a-container container-leaderboard"]
 
-! --------------------
-! http://jsbin.com/
-! --------------------
 jsbin.com##DIV[id="bsaapi"][class="cs__wrapper"]
 
-! --------------------
-! http://amazon.com/
-! --------------------
 www.amazon.com##DIV[id="nav-upnav"]
 
-! --------------------
-! https://en.autoplius.lt/
-! --------------------
 en.autoplius.lt##LI[id="banner_right"][class="ads-items"]
 en.autoplius.lt##DIV[class="leader-board-wrapper"]
 en.autoplius.lt##DIV[class="news-15min-sidebar"]
 en.autoplius.lt##DIV[class="headtop"]
 
-! --------------------
-! https://translate.academic.ru
-! --------------------
 translate.academic.ru##DIV[id="langbar"]
 translate.academic.ru##DIV[id="footer"]
 translate.academic.ru##UL[class="smm"]
 translate.academic.ru##DIV[class="other-info"]
 translate.academic.ru##DIV[id="search_links"]
 translate.academic.ru##DIV[id="t-direction-head"]
-dic.academic.ru##UL[id="top-menu"]
 translate.academic.ru##UL[id="top-menu"]
+dic.academic.ru##UL[id="top-menu"]
 
-! --------------------
-! https://vstorrent.org
-! --------------------
 vstorrent.org##DIV[class="mEtgMUbJaIcE-bg"]
 vstorrent.org##DIV[class="mEtgMUbJaIcE-default"]
 
-! --------------------
-! https://tv.yandex.ua
-! --------------------
 tv.yandex.ua##DIV[class="v1hIpJDSG812RXQ__v0AQ2bW6M_00"]
+
+my.lanet.ua##DIV[class="ads-container col-md-12"]
